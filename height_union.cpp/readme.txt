@@ -28,10 +28,5 @@ STOP               ---------> 輸入STOP就停止輸入，接著以下就是把�
 1                  ---------> FIND 1 之前執行過了，所以這裡的number of links traversed + number of links resetted是1+0=1
 
 2.程式架構 & 功能設計 & compare weightedUnion and heightUnion : 
-    此程式我設計了兩個function，一個是heightUnion，另一個是collapsingFind。heightUnion我是用比較樹高，樹高較高的當新的樹的root且樹高不變，若是兩棵樹等高，
-我是設計先輸入的root當新的樹的root，然後樹高加1。而collapsingFind這個function照理說是要找出root然後回傳root，但是此次作業是要計算 number of links traversed + number of links resetted，
-所以在此我設計用count計算number of links traversed + number of links resetted，每往前找尋一次parent，count就加1，直到找到root，然後把那個點的parent設成root，count也要加1。
-比較 weightedUnion and heightUnion ，對我來說我是覺得兩者以實作來說沒什麼差別，因為在輸入root時，heightUnion接著會輸入樹高，而weightedUnion則是輸入點的個數，所以你在Union時也只要比較
-root的所存的值就好。我覺得可能有差的是collapsingFind，但我也覺得差不多，假如說有兩棵樹要合併，第一棵樹有5個點，樹高是2，第二顆樹有三個點，樹高是3;以weightedUnion的方法:第一個樹的root會
-變成新的樹的root，樹高是4，以heightUnion方法:第二顆樹的root會變成新的是的root，樹高是3。所以你要找離root最遠的那個leaf時，heightUnion的方法可以往上少搜尋一次。以這個例子來說，heightUnion
-會相對好一點點。
+    此程式我設計了兩個function，一個是heightUnion，另一個是collapsingFind。heightUnion我是用比較樹高，樹高較高的當新的樹的root且樹高不變，若是兩棵樹等高，我是設計先輸入的root當新的樹的root，然後樹高加1。而collapsingFind這個function照理說是要找出root然後回傳root，但是此次作業是要計算 number of links traversed + number of links resetted，所以在此我設計用count計算number of links traversed + number of links resetted，每往前找尋一次parent，count就加1，直到找到root，然後把那個點的parent設成root，count也要加1。
+    比較 weightedUnion and heightUnion ，對我來說我是覺得兩者以實作來說沒什麼差別，因為在輸入root時，heightUnion接著會輸入樹高，而weightedUnion則是輸入點的個數，所以你在Union時也只要比較root的所存的值就好。我覺得可能有差的是collapsingFind，但我也覺得差不多，假如說有兩棵樹要合併，第一棵樹有5個點，樹高是2，第二顆樹有三個點，樹高是3;以weightedUnion的方法:第一個樹的root會變成新的樹的root，樹高是4，以heightUnion方法:第二顆樹的root會變成新的是的root，樹高是3。所以你要找離root最遠的那個leaf時，heightUnion的方法可以往上少搜尋一次。以這個例子來說，heightUnion會相對好一點點。
