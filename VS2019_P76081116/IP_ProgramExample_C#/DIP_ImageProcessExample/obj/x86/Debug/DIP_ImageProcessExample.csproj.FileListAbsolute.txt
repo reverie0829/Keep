@@ -1,0 +1,191 @@
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.Cache
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+d:\users\luckyd\documents\visual studio 2010\Projects\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+F:\程式講解&範例\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+F:\程式講解&範例\DIP_ImageProcessExample\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+D:\WorkSpace\修課\影像處理\ref\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+D:\WorkSpace\修課\影像處理\ref\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CoreCompileInputs.cache
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojResolveAssemblyReference.cache
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.Cache
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CoreCompileInputs.cache
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CoreCompileInputs.cache
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.xml
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BUS Lab\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CopyComplete
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.xml
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\joyce\Dropbox\myself\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.xml
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CopyComplete
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\rever\Google 雲端硬碟 (p76081116@gs.ncku.edu.tw)\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.xml
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CopyComplete
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\IMSLab\Google 雲端硬碟\成大108-1上課資料\影像處理\Image-hw1\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.xml
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CopyComplete
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\rever\Desktop\影像處理作業test\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.xml
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\IMSLab\Desktop\影像處理作業test2\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CopyComplete
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.exe
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\DIP_ImageProcessExample.pdb
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ZedGraph.xml
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Form1.resources
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.csproj.CopyComplete
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.exe
+C:\Users\IMSLab\Google 雲端硬碟\影像處理作業備存\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Debug\DIP_ImageProcessExample.pdb
