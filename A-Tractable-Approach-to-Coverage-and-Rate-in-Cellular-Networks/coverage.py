@@ -38,5 +38,7 @@ if __name__ == "__main__":
             pbar.update(1)
     print(C)
     plt.plot( T_range, C )
+    plt.xlim((-10,20))
+    plt.ylim((0,1))
     plt.yticks(np.arange(0,1,0.1))
     plt.show()
