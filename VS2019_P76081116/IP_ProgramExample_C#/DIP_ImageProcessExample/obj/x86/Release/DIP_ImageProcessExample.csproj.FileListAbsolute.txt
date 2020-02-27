@@ -1,0 +1,65 @@
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csprojResolveAssemblyReference.cache
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Form1.resources
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Properties.Resources.resources
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.GenerateResource.Cache
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\20161026\hw1_example\程式講解&範例\DIP_ImageProcessExample(C#)\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csprojResolveAssemblyReference.cache
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Form1.resources
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Properties.Resources.resources
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.GenerateResource.Cache
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\20161026\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Form1.resources
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Properties.Resources.resources
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.GenerateResource.cache
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.CoreCompileInputs.cache
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\DIP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.pdb
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csprojResolveAssemblyReference.cache
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Form1.resources
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Properties.Resources.resources
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.GenerateResource.Cache
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.exe
+D:\WorkSpace\助教\DIPHW_20181108\DIP_ProgramGuide\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.exe
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.pdb
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Form1.resources
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.CoreCompileInputs.cache
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.exe
+C:\Users\BUS Lab\Desktop\Image\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.pdb
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csprojAssemblyReference.cache
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Form1.resources
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.Properties.Resources.resources
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.GenerateResource.cache
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.exe
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.pdb
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.exe
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\DIP_ImageProcessExample.pdb
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\ZedGraph.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\ZedGraph.xml
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\de\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\es\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\it\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\rever\Desktop\影像處理作業test3\IP_ProgramExample_C#\DIP_ImageProcessExample\obj\x86\Release\DIP_ImageProcessExample.csproj.CopyComplete
