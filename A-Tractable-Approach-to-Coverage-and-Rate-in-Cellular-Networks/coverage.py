@@ -13,7 +13,7 @@ u = 1
 
 def Laplace( u, T, r  ):
     def first_integral(g):
-        first_integral = lambda v: 1 - np.exp((-u * T * r**alpha * v**-alpha * g) * v )
+        first_integral = lambda v: (1 - np.exp(-u * T * r**alpha * v**-alpha * g)) * v 
         first_val , err = integrate.quad(first_integral, r, np.Infinity)
         return first_val
     
