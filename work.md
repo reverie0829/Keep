@@ -16,6 +16,8 @@
 5.
 瀏覽論文 :  `Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks`  ( 用來了解 Cluster-Centric  與 User-Centric的差異  )
 
-6.
-尋找&閱讀新論文 `Exploiting Transmission and Caching Diversity in Cache-Enabled User-Centric Network  Analysis and Optimization` (2019的論文，想用來了解最新caching相關主題的進展)
-        
+# Todo
+* 尋找&閱讀新論文 `Exploiting Transmission and Caching Diversity in Cache-Enabled User-Centric Network  Analysis and Optimization` (2019的論文，想用來了解最新caching相關主題的進展)
+
+# Practice
+* https://github.com/reverie0829/Memo/tree/master/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks 
