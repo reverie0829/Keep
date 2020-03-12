@@ -1,6 +1,6 @@
 # Work
 1. 
-         大概讀完論文 : <font color="blue">Delay Analysis and Optimization in Cache-enabled<font>  (頗難理解，所以就大概理解model & 想法)  
+       大概讀完論文 : `Delay Analysis and Optimization in Cache-enabled`  (頗難理解，所以就大概理解model & 想法)  
 
 2.  
         尋找&讀完新找的論文 : Content-Exchanged Based Cooperative Caching in 5G Wireless Networks  (讀完 & 做完ppt)
