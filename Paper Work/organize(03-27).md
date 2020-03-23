@@ -2,10 +2,10 @@
 I.<br>*`Delay Analysis and Optimization in Cache-enabled`*  :<br>
  
   &emsp;system model 跟學長那篇有點像，但是average delay的公式是利用 queueing theory的M/M/1推的， 接著要去最佳化公式，也是跟學長一樣先去證明是NP-complete，然後再去找驗算法。<br>
-  &emsp;作者找演算法的流程是將優化問題表示為受擬陣(matroid)約束的非遞減子模函數的最大化，從而使我們能夠採用具有1/2近似性能保證的低複雜度貪婪緩存算法。然後提出了一種啟發式貪婪演算法(Heuristic greedy algorithm)，該方案不僅考慮內容的受歡迎程度，存儲容量和用戶請求到達率，還考慮內容的大小。------>但是這段證明我看不懂，需要蠻多先備知識的。
+  &emsp;作者找演算法的流程是將優化問題表示為受擬陣(matroid)約束的非遞減子模函數的最大化，從而使我們能夠採用具有1/2近似性能保證的低複雜度貪婪緩存算法。然後提出了一種啟發式貪婪演算法(Heuristic greedy algorithm)，該方案不僅考慮內容的受歡迎程度，存儲容量和用戶請求到達率，還考慮內容的大小。------>但是這段證明我實在看不懂，需要蠻多先備知識的。
 
-II.<br>尋找&讀完新找的論文 :<br>
- *`Content-Exchanged Based Cooperative Caching in 5G Wireless Networks`* <br>(讀完 & 做完ppt)
+II.<br>*`Content-Exchanged Based Cooperative Caching in 5G Wireless Networks`* :<br>
+  <br>(讀完 & 做完ppt)
 
 III.<br>讀完論文前面的model :<br> *`Cooperative Edge Caching in User-Centric Clustered Mobile Networks`*
 
