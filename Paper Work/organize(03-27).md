@@ -5,18 +5,19 @@ I.<br>*`Delay Analysis and Optimization in Cache-enabled`*  :<br>
   &emsp;作者找演算法的流程是將優化問題表示為受擬陣(matroid)約束的非遞減子模函數的最大化，從而使我們能夠採用具有1/2近似性能保證的低複雜度貪婪緩存算法。然後提出了一種啟發式貪婪演算法(Heuristic greedy algorithm)，該方案不僅考慮內容的受歡迎程度，存儲容量和用戶請求到達率，還考慮內容的大小。------>但是這段證明我實在看不懂，需要蠻多先備知識的。
 
 II.<br>*`Content-Exchanged Based Cooperative Caching in 5G Wireless Networks`* :<br>
-  <br>(讀完 & 做完ppt)
+  <br>&emsp;( 03/16 meeting 內容 )
 
-III.<br>讀完論文前面的model :<br> *`Cooperative Edge Caching in User-Centric Clustered Mobile Networks`*
+III.<br>*`Cooperative Edge Caching in User-Centric Clustered Mobile Networks`* :<br> 
 
- 看了 *`Cooperative Edge Caching in User-Centric lustered Mobile Networks`* 這篇論文之後，發現學長的論文應該是這篇的延伸，後來想了一下學長提出的cluster的方法，我自己想說好像可以有其他種cluster的方法或想法，但也有可能是我自己的錯覺，所以找了這篇 *`Stochastic Geometry Modeling and Analysis of Single- and Multi-Cluster Wireless Networks`* 來看一下有沒有其他cluster想法可以參考
+  &emsp;學長論文內所比較的 Zhang's scheme
 
-IV.<br>瀏覽論文 :<br>  *`Stochastic Geometry Modeling and Analysis of Single- and Multi-Cluster Wireless Networks`* <br>( 用來了解cluster構築的想法,發現沒啥用 )
+IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks`* :<br>
+2 ) *`Cluster-centric cache utilization design in cooperative small cell networks`* :<br>
 
-V.<br>瀏覽論文 :<br>  *`Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks`* <br>( 用來了解 Cluster-Centric  與 User-Centric的差異  )
 
-# Todo
-* 尋找&閱讀新論文<br> *`Exploiting Transmission and Caching Diversity in Cache-Enabled User-Centric Network  Analysis and Optimization`* <br>(2019的論文，想用來了解最新caching相關主題的進展)
+&emsp;( 用來了解 Cluster-Centric  與 User-Centric的差異  )<br> 
 
-# Practice
-* https://github.com/reverie0829/Memo/tree/master/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks 
+&emsp;為了平衡傳輸和內容多樣性，作者提出了一種以緩存為中心的策略，結合緩存和傳輸策略的設計。cluster中的整個緩存空間由中央控制器安排，以便在每個SBS中分發相同的最流行內容，或在不同的SBS中存儲較不受歡迎的內容的不同分區(MPC & LCD)，從而確保可以在cluster內部找到所有緩存的內容。<br>
+&emsp;根據所請求內容的可用性和位置，具有聯合傳輸或併行傳輸的協作多點技術(CoMP)用於將內容交付給服務的用戶。
+
+<!-- V.<br>*``* :<br>   -->
