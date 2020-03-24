@@ -22,7 +22,7 @@ IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Smal
 &emsp;為了平衡傳輸和內容多樣性，作者提出了一種以緩存為中心的策略，結合緩存和傳輸策略的設計。cluster中的整個緩存空間由中央控制器安排，以便在每個SBS中分發相同的最流行內容，或在不同的SBS中存儲較不受歡迎的內容的不同分區(MPC & LCD)，從而確保可以在cluster內部找到所有緩存的內容。<br>
 &emsp;根據所請求內容的可用性和位置，具有聯合傳輸或併行傳輸的協作多點技術(CoMP)用於將內容交付給服務的用戶。
 
-<figure class="half">
+<center class="half">
     <img src="./picture/4.png" width="41.8%"/> <img src="./picture/3.png"width="40%"/>   
-</figure>
+</center>
 <!-- V.<br>*``* :<br>   -->
