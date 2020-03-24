@@ -26,3 +26,8 @@ IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Smal
     <img src="./picture/4.png" width="41.8%"/><img src="./picture/3.png"width="40%"/>   
 </p>
 <!-- V.<br>*``* :<br>   -->
+
+# Reference
+  [1]&emsp;Y. Sun, Z. Chen and H. Liu, "Delay Analysis and Optimization in Cache-Enabled Multi-Cell Cooperative Networks," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-7.
+
+  [2]&emsp;Z. Chen, J. Lee, T. Q. S. Quek and M. Kountouris, "Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks," in IEEE Transactions on Wireless Communications, vol. 16, no. 5, pp. 3401-3415, May 2017.
