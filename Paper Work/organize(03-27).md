@@ -4,6 +4,8 @@ I.<br>*`Delay Analysis and Optimization in Cache-enabled`*  :<br>
   &emsp;system model 跟學長那篇有點像，但是average delay的公式是利用 queueing theory的M/M/1推的， 接著要去最佳化公式，也是跟學長一樣先去證明是NP-complete，然後再去找驗算法。<br>
   &emsp;作者找演算法的流程是將優化問題表示為受擬陣(matroid)約束的非遞減子模函數的最大化，從而使我們能夠採用具有1/2近似性能保證的低複雜度貪婪緩存算法。然後提出了一種啟發式貪婪演算法(Heuristic greedy algorithm)，該方案不僅考慮內容的受歡迎程度，存儲容量和用戶請求到達率，還考慮內容的大小。------>但是這段證明我實在看不懂，需要蠻多先備知識的。
 
+  <img src="./picture/1.png" width="40%"/>
+
 II.<br>*`Content-Exchanged Based Cooperative Caching in 5G Wireless Networks`* :<br>
   <br>&emsp;( 03/16 meeting 內容 )
 
@@ -21,8 +23,7 @@ IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Smal
 &emsp;根據所請求內容的可用性和位置，具有聯合傳輸或併行傳輸的協作多點技術(CoMP)用於將內容交付給服務的用戶。
 
 <figure class="half">
-    <img src="https://raw.github.com/reverie0829/Keep/master/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/Laplace.png" width="300"/>
-    <img src="https://raw.github.com/reverie0829/Keep/master/A-Tractable-Approach-to-Coverage-and-Rate-in-Cellular-Networks/Laplace.png"width="300"/>
-   
+    <img src="./picture/4.png" width="41.8%"/>
+    <img src="./picture/3.png"width="40%"/>   
 </figure>
 <!-- V.<br>*``* :<br>   -->
