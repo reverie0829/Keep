@@ -23,7 +23,6 @@ IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Smal
 &emsp;根據所請求內容的可用性和位置，具有聯合傳輸或併行傳輸的協作多點技術(CoMP)用於將內容交付給服務的用戶。
 
 <figure class="half">
-    <img src="./picture/4.png" width="41.8%"/>
-    <img src="./picture/3.png"width="40%"/>   
+    <img src="./picture/4.png" width="41.8%"/> <img src="./picture/3.png"width="40%"/>   
 </figure>
 <!-- V.<br>*``* :<br>   -->
