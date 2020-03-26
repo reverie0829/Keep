@@ -11,7 +11,11 @@ II.<br>*`Content-Exchanged Based Cooperative Caching in 5G Wireless Networks`* :
 
 III.<br>*`Cooperative Edge Caching in User-Centric Clustered Mobile Networks`* :<br> 
 
-  &emsp;學長論文內所比較的 Zhang's scheme
+  &emsp;學長論文內所比較的 Zhang's scheme <br>
+  其實我有點好奇學長的方法為何會比較快，因為這篇論文也是有用到cluster的想法，而且還不需要用到backhaul傳遞。
+<p class="half">
+    <img src="./picture/5.png" width="31.5%"/><img src="./picture/6.png"width="45%"/>   
+</p>
 
 IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks`* :<br>
 2 ) *`Cluster-centric cache utilization design in cooperative small cell networks`* :<br>
