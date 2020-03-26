@@ -12,14 +12,13 @@ II.<br>*`Content-Exchanged Based Cooperative Caching in 5G Wireless Networks`* :
 III.<br>*`Cooperative Edge Caching in User-Centric Clustered Mobile Networks`* :<br> 
 
   &emsp;學長論文內所比較的 Zhang's scheme <br>
-  其實我有點不是很懂學長的方法為何會比較快，因為這篇論文也是有用到cluster的想法，而且還不需要用到backhaul傳遞。
-  應該是我沒想到此篇論文是如何套進學長的system內的。
+  其實我有點不是很懂學長的方法為何會比較快，因為這篇論文也是有用到cluster的想法，而且還不需要用到backhaul傳遞。<br>應該是我還沒理解此篇論文是如何套進學長的system內的。
 <p class="half">
     <img src="./picture/5.png" width="40%"/><img src="./picture/6.png"width="57.1%"/>   
 </p>
     <img src="./picture/7.png" width="50%"/> <br>
     &emsp; 後來想了一下，我想此論文的cluster是把 一群user變成一組group(如上圖，以sbs-2的角度來看，他會把 user-1 & user-5 看成一組group，因為距離這兩位user第二近的sbs就是sbs-2)，然後再去對每個SBS的不同group做wireless bandwidth retio 的最佳化。<br>
-    &emsp; 然而學長的論文因為不討論頻寬，所以如果套進學長的system的話
+    &emsp; 然而學長的論文因為不討論頻寬，所以如果套進學長的system的話，直接省略最佳化頻寬的步驟，再者學長因為有backhaul連接其他sbs成為cluster(利用backhaul去其他sbs抓取資料，再利用最近的sbs傳送到user)，所以此篇論文就相對會比較慢，因為距離user越遠的sbs傳送資料到user的delay會越大。<br>
 
 
 IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks`* :<br>
