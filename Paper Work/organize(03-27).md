@@ -18,8 +18,8 @@ III.<br>*`Cooperative Edge Caching in User-Centric Clustered Mobile Networks`* :
 </p>
   <img src="./picture/7.png" width="50%"/> <br>
   &emsp; 後來想了一下，我想此論文的 cluster 是把一群 user 變成一組 group (如上圖，以sbs-2的角度來看，他會把 user-1 & user-5 看成一組 group，因為距離這兩位 user 第二近的 sbs 就是 sbs-2 )，然後再去對每個 SBS 的不同   group 做 wireless bandwidth retio 的最佳化。<br>
-  &emsp; 然而學長的論文因為不討論頻寬，所以如果套進學長的 system 的話，直接省略最佳化頻寬的步驟，再者學長因為有 backhaul 連接其他 sbs 成為 cluster (利用 backhaul 去其他 sbs 抓取資料，再利用最近的 sbs 傳送到 user )，所以此篇論文就相對會比較慢，因為距離 user 越遠的 sbs 傳送資料到 user 的 delay 會越大。<br>
-
+  &emsp; 然而學長的論文因為不討論頻寬，所以如果套進學長的 system 的話，直接省略最佳化頻寬的步驟，再者學長因為有 backhaul 連接其他 sbs 成為 cluster (利用 backhaul 去其他 sbs 抓取資料，再利用最近的 sbs 傳送到 user )，所以此篇論文就相對會比較慢，因為距離 user 越遠的 sbs 傳送資料到 user 的 delay 會越大。
+<br>
 
 IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks`* :<br>
 2 ) *`Cluster-centric cache utilization design in cooperative small cell networks`* :<br>
@@ -34,6 +34,9 @@ IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Smal
     <img src="./picture/4.png" width="41.8%"/><img src="./picture/3.png"width="40%"/>   
 </p>
 <!-- V.<br>*``* :<br>   -->
+
+# My Proposal
+&emsp;一開始我是覺得學長的 cluster 機制可能沒有說 make sence ，因為我原本以為現實生活中每個 sbs 不一定都會相連，且學長的 sbs 相連的線還是串接的，又更讓我疑惑了，在經過老師的講解後，大約理解到那應該算是示意圖(而且 sbs 之間可以靠 s1 介面或是 x2 介面相連溝通的)，所以我只能再繼續從別處下手。
 
 # Reference
   [1]&emsp;Y. Sun, Z. Chen and H. Liu, "Delay Analysis and Optimization in Cache-Enabled Multi-Cell Cooperative Networks," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-7.
