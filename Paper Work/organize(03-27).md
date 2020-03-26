@@ -14,7 +14,7 @@ III.<br>*`Cooperative Edge Caching in User-Centric Clustered Mobile Networks`* :
   &emsp;學長論文內所比較的 Zhang's scheme <br>
   其實我有點好奇學長的方法為何會比較快，因為這篇論文也是有用到cluster的想法，而且還不需要用到backhaul傳遞。
 <p class="half">
-    <img src="./picture/5.png" width="36.5%"/><img src="./picture/6.png"width="52.1%"/>   
+    <img src="./picture/5.png" width="40%"/><img src="./picture/6.png"width="57.1%"/>   
 </p>
 
 IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks`* :<br>
@@ -35,3 +35,5 @@ IV.<br>1 ) *`Cooperative Caching and Transmission Design in Cluster-Centric Smal
   [1]&emsp;Y. Sun, Z. Chen and H. Liu, "Delay Analysis and Optimization in Cache-Enabled Multi-Cell Cooperative Networks," 2016 IEEE Global Communications Conference (GLOBECOM), Washington, DC, 2016, pp. 1-7.
 
   [2]&emsp;Z. Chen, J. Lee, T. Q. S. Quek and M. Kountouris, "Cooperative Caching and Transmission Design in Cluster-Centric Small Cell Networks," in IEEE Transactions on Wireless Communications, vol. 16, no. 5, pp. 3401-3415, May 2017.
+
+  [3]&emsp;S. Zhang, P. He, K. Suto, P. Yang, L. Zhao and X. Shen, "Cooperative Edge Caching in User-Centric Clustered Mobile Networks," in IEEE Transactions on Mobile Computing, vol. 17, no. 8, pp. 1791-1805, 1 Aug. 2018.
