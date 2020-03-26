@@ -47,10 +47,10 @@
 # My Proposal
 &emsp;一開始我是覺得學長的 cluster 機制可能沒有說 make sence ，因為我原本以為現實生活中每個 sbs 不一定都會相連，且學長的 sbs 相連的線還是串接的，又更讓我疑惑了，在經過老師的講解後，大約理解到那應該算是示意圖(而且 sbs 之間可以靠 x1 介面或是 x2 介面相連溝通的)，所以我只能再繼續從別處下手。<br>
 &emsp;後來還是覺得可以從 cluster 去下手，學長 cluster 的機制是以 sbs 的編號組成 cluster ，但是這個地方是可以去討論的，因為現實生活中通常是在某個地區的同質性比較高，所以當地的 user 可能會重複求取某些相同的 contents (這些內容比較受歡迎)，但是學長的 system 是以編號組成 cluster ，有可能出現同一個 cluster 的 sbs 相距甚遠，這樣會出現同一個 cluster 內的 sbs caching 的 contents 是不太相似的，導致增加跟remote servers 要東西的次數，使平均傳輸時間增加。<br>
-1)能不能使鄰近的sbs成為一個 cluster ? 如此一來，平均傳輸時間會減少嗎? <br>
-2)如果以 [IV.](#IV.) 想法放進學長的 system 可行嗎? content placement 的策略要更改嗎? 如此一來，平均傳輸時間會減少嗎?  <br>
-3)  <br>
-4)  <br>
+&emsp;&emsp;1)&emsp;能不能使鄰近的sbs成為一個 cluster ? 如此一來，平均傳輸時間會減少嗎? <br>
+&emsp;&emsp;2)&emsp;如果以 [IV.](#IV.) 想法放進學長的 system 可行嗎? content placement 的策略要更改嗎? 如此一來，平均傳輸時間會減少嗎?  <br>
+&emsp;&emsp;3)&emsp;  <br>
+&emsp;&emsp;4)&emsp;  <br>
 
 
 # Reference
