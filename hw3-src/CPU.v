@@ -49,48 +49,7 @@ reg  instr_read_do;
 reg  data_read_do;
 reg [31:0] register[0:31];// 宣告 32 個 32 位元的暫存器群組 
 
-/* Add your design */
-always@(rst)begin  //initial
-instr_addr=0;
-end
 
-
-always@(posedge  clk or negedge clk or negedge rst)begin  // clock count
-if(rst)begin  
-   cnt<=0;
-end
-else begin
-cnt<=cnt+1;
-end
-end
-
-always@(posedge  clk or negedge clk)begin // instr_read control
-
-if(cnt==3'b0)begin
-instr_read=1;
-end
-else begin
-instr_read=0;
-end
-end
-
-always@(posedge  clk or negedge clk)begin  // work control
-if(cnt==3'b10)begin
-instr_read_do=1;
-end
-else begin
-instr_read_do=0;
-end
-end
-
-always@(posedge  clk or negedge clk)begin  // data_read control
-if(cnt==3'b100)begin
-data_read_do=1;
-end
-else begin
-data_read_do=0;
-end
-end
 
 always@(posedge instr_read_do)begin
 
@@ -184,40 +143,7 @@ else if(op==7'b0000011)begin//i type lw
 
 	instr_addr=instr_addr+4;
 end
-else if(op==7'b0100011)begin//s type sw
-   rs2=instr_out[24:20];
-   rs1=instr_out[19:15];
-   funct3=instr_out[14:12];
-   imm={instr_out[31:25],instr_out[11:7]};
-	b=register[rs2];a=register[rs1];
-	case({funct3})
-	3'b010:begin
-	data_addr=a+{{20{imm[11]}},imm};data_write=4'hf;
-	data_in=b;
-	//$write("sw ");
-	end
-	3'b000:begin
-	data_addr_temp={{20{imm[11]}},imm};
-	if(data_addr_temp[15:0]-data_addr_temp[15:2]*4=='d3) begin //if({{20{imm[11]}},imm}==-'d13) begin
-	data_addr=a+{{20{imm[11]}},imm};data_write=4'b1000;
-	data_in={b[7:0],24'b0};
-	end
-	else begin
-	data_addr=a+{{20{imm[11]}},imm};data_write=4'b0001;
-	data_in=b;
-	end
-	end
-	3'b001:begin
-	data_addr_temp={{20{imm[11]}},imm};
-	if(data_addr_temp[15:0]-data_addr_temp[15:2]*4=='d2) begin  //if({{20{imm[11]}},imm}==-'d18) begin
-	data_addr=a+{{20{imm[11]}},imm};data_write=4'b1100;
-	data_in={b[15:0],16'b0};
-	end
-	else begin
-	data_addr=a+{{20{imm[11]}},imm};data_write=4'b0011;
-	data_in=b;
-	end
-	end
+
 	
 	endcase
 
@@ -356,16 +282,7 @@ always@(posedge data_read_do)begin
 
 if(data_read)begin
 	case({funct3})
-		3'b010:begin 
-		register[rd]=data_out;end
-		3'b000:begin
-		register[rd]=$signed(data_out[7:0]);end
-		3'b001:begin
-		register[rd]=$signed(data_out[15:0]);end
-		3'b100:begin
-		register[rd]=data_out[7:0];end
-		3'b101:begin
-		register[rd]=data_out[15:0];end
+
 	endcase
 data_read=0;
 end
